@@ -13,6 +13,7 @@ add <- function(x, y) {
   x + y
 }
 
+
 #' Subtract two numbers
 #'
 #' @inheritParams add
