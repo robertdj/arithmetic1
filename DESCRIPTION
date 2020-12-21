@@ -11,4 +11,5 @@ URL: https://github.com/robertdj/arithmetic1
 RoxygenNote: 7.1.0
 Roxygen: list(markdown = TRUE)
 Suggests: 
-    testthat
+    testthat,
+    covr
